@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{A13A0415-9727-40FB-A148-C793F96C4F7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Question_StackOverflow/Startup.cs">
+    <Files>
+      <File FileName="Question_StackOverflow/Controllers/MainEntityController.cs" Line="42" Column="19" />
+      <File FileName="Question_StackOverflow/Startup.cs" Line="18" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Question_StackOverflow" expanded="True">
+            <Node name="Question_StackOverflow" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Question__StackOverflow PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
